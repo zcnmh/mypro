@@ -6,4 +6,4 @@ feature-a   16:39
 fix-B 17:40
 
 2018.6.6
-faeture-C 17:13
+feature-C 17:13
